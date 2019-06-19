@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "ocds_Contract-dateCreated_extension", 
+	"es": "ocds_Contract-dateCreated_extension"
+  },
+  "description": {
+    "en":"Creation date of a contract.", 
+	"es":"Fecha de creación de un contrato."
+  },
+  "documentationUrl": {
+    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+  },    
+  "compatibility": [
+    "1.1"
+  ],
+  "dependencies": [
+    "http://httpbin.org/anything/path/to/extension1/extension.json",
+    "http://httpbin.org/anything/path/to/extension2/extension.json"
+  ]
+}
