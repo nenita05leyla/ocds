@@ -25,10 +25,7 @@ The following JSON snippet models a `dateCreated` field:
 			"startDate": "2018-11-07T00:00:00Z",
 			"endDate": "2019-12-31T00:00:00Z",
 			"durationInDays": 419
-		},
-		"value": {...},
-		"items": [...],
-		"documents": [...],
+		},		
 		"dateCreated": "2018-11-12T12:22:53Z"
 	}
 ]
