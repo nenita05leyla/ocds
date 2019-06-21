@@ -1,15 +1,13 @@
-# Date Created 
+# Contract Date Created
 
 ## Description 
-## Extension fields 
+### Extension fields 
 This extension adds `dateCreated` field to the` contracts` section of OCDS.
-Describes creation date of a contract. If our data was released historical this field
-indicates date creation of a contract to compare with section `period` to analize diference 
+Describes creation date of a contract. If the data were published retrospectively this field
+indicates the creation date of a contract to compare it with the `period` section to analize differences 
 between inicial period of contract and the creation of itself.
 
-## Examples
-
-### Multi-source budgets
+## Example
 
 The following JSON snippet models a `dateCreated` field:
 

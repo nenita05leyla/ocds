@@ -1,1 +1,17 @@
-{}
+{
+  "definitions": {
+    "Contract": {
+      "properties": {
+        "dateCreated": {
+          "title": "Date created",
+          "description": "The date the contract was created.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}
